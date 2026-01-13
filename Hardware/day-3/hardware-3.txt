@@ -1,0 +1,14 @@
+4. CPU (Central Processing Unit) also known as microprocessor
+
+Two types 1. pinset 2. pinless
+
+L1 acts as a translator between cpu and input device
+
+data flow is input device to l1 to processor to ALU (Arithmatic Logical Unit) to CU (Control Unit) L2 to output device (monitor)
+
+Processor is made up of billions of transistors
+
+cores
+generation
+
+ 

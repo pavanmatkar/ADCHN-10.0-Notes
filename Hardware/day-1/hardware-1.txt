@@ -1,0 +1,35 @@
+1. Motherboard
+
+Pci slot me NIC card and motherboard tester laga sakte hai 
+
+Pci slot ke right side me graphics card slot hota hai
+
+North Bridge CPU (processor) and RAM ke bich me jo distance hai iske bich me kaam karta hai
+
+South bridge jitney bhi on board port hai na jispe aap aapne keyboard mouse ya sata 
+cable connect kar rahe ho in sab ki connectivity responsibility south bridge ki hoti hai
+
+
+2. SMPS
+
+AC power input DC power output
+
+Cooling fan or Heat sink is present to avoid heating
+
+Maximum 24 power pin, minimum 6 pin, 8 pin, 12 pin, 20 pin
+
+HDD requires 17V DC power supply
+FAN 12V DC
+ 
+Black wire is known as ground matlab ye minus hai
+Yellow wire is +12V
+Orange wire is +3.3V
+Brown is PG
+Green is PS-ON
+Red is +5V
+White is -5V
+Blue is -12V
+
+Agar ham power button press kar rahe hai baar baar phir bhi pc start nahi ho raha to first ham smps ko check karenge. Usme green and black wire ko short karenge. Agar hamara smps ka fan running hone laga to smps working hai. Uske baad hame motherboard check karna honga.
+
+Agar galtise dusre wire short ho gaye to smps me laga hua capacitor jor se blast hota hai.

@@ -1,0 +1,13 @@
+3. RAM (Random Access Memory) 
+
+it is also known as Primary Memory
+
+DRAM (dynamic random access memory) is made up of capacitor and transistors. To load the data into it we have to refresh it repeatedly.
+
+SRAM (Static Random Access Memory) it is fully made up of transistors. It is comparatively faster than Dram.
+
+DDR RAM (Double Data Rate)
+
+Ram is a volatile memory
+
+tasklist is the command to see the tasks in the RAM

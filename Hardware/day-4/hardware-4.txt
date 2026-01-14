@@ -1,0 +1,93 @@
+5. Storage Device
+
+two types 1. IDE HDD 2. SATA HDD
+
+IDE HDD also known as PATA HDD
+
+IDE is obsolute now so we will study SATA only
+
+SATA HDD has following parts
+1. Plater / disk -> stores data
+2. Motor -> rotates plater
+3. Actuator -> controls arm movement
+4. Arm -> controls the movement of head
+5. Head -> reads and writes data on disk 
+
+data is stored in the form of electromagnetic signal
+
+higher the rpm of motor higher is the speed of the hdd e.g. 5400rpm, 7200rpm, 10000rpm, etc.
+
+=======================================================================
+
+Interview question what is difference between HDD and SSD
+
+* SSD
+no plater
+no motor
+it has multiple ICs which stores data
+
+if you want data security(recovery) go for HDD
+if you want faster speed go for SSD 
+
+HDD is cheap price e.g. 500 GB for 800/- RS
+SSD is high price e.g. 500 GB for 2000/- RS
+
+for fast booting use ssd for data storage use hdd.
+data recovery from ssd is harder as compared to hdd.
+
+===========================================================================
+
+* NVME also known as m2 sata
+
+it takes much lower space as compared to hdd and sata.
+
+extra power connection is not required for nvme but required in hdd and sata
+
+===========================================================================
+
+* MBR (master boot recorder) and GPT (graphic partition table)
+
+MBR supports upto 3 primary partition and one extended partition (logical volume) total of 4 partition and maximum disk size of 2TB
+
+MBR introduced by IBM in 1983
+
+MBR works on old technology (BIOS) and GPT works on new technology (UEFI)
+
+OS can be installed only in primary partition
+
+MBR does not support secure boot menu. GPT supports secure boot menu.
+
+GPT supports upto 128 primary partition
+GPT supports UEFI boot menu (unified extendable firmware interface) 
+
+Server uses GPT disks
+
+=============================================================================
+
+* Basic disks and Dynamic disks
+
+interview question basic disk and dynamic disks
+
+diskmgmt.msc (to check basic or dynamic disk)
+
+we can install os in basic disk but dynamic disk does not support os installation
+
+dynamic disk is used to create LVM 
+
+dynamic disk me primary partition bante hi nahi hai
+
+primary partition basic disk hi support karta hai
+
+basic disk me 4 hi partition bante hai 
+dynamic me kitne bhi partition ban sakte hai
+
+===============================================================================
+
+* File Systems
+
+FAT
+FAT32
+ExFAT
+NTFS -> 1993 -> security options -> supports encryption -> used most widely now a days
+
+file system data ko systematic tarikese arrange karne ka kaam karta hai

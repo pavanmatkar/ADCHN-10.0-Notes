@@ -1,0 +1,17 @@
+6. ROM and BIOS
+
+bios is a program which is stored inside rom
+we cannot erase this data as the name suggests read only
+
+types of rom in screenshot
+to delete data from EPROM we have to use UV rays
+
+bios present in rom bios performs post (power on self test)
+
+bios introduced in 1980 it does not supports secure boot
+bios booting process is slow as compared to uefi
+
+
+
+
+

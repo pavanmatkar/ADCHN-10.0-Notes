@@ -1,3 +1,19 @@
 * website blocking & usb port blocking
 
 step 1 -> download notepad ++
+
+this pc -> c drive -> windows -> system32 -> drivers -> etc -> hosts file
+
+copy hosts file and paste on desktop for backup purpose
+
+then edit it as 
+# Website blocking
+
+	127.0.0.1 	facebook.com
+	127.0.0.1 	www.facebook.com
+	127.0.0.1	https://facebook.com
+	127.0.0.1	http://facebook.com
+
+* for USB port blocking
+
+go to edit group policy -> administrator -> system -> removable storage access -> all removable storage allow -> enable -> apply ok

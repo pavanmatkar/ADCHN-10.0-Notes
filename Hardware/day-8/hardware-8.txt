@@ -1,0 +1,3 @@
+* website blocking & usb port blocking
+
+step 1 -> download notepad ++

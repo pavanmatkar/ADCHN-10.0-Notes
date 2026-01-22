@@ -1,0 +1,15 @@
+* MMC (Microsoft Management Console)
+
+user drive permissions explained
+
+compmgmt.msc add admin user and two users User1 and User2
+
+disk mgmt -> add two new volumes in vm by addind two hdd sata
+
+change the names of the newly added drive as A and D
+
+open mmc from admin user 
+
+administrator template -> windows components -> file explorer -> press p -> prevent access to drives from my computer -> enable -> from D drive 
+
+go to file -> save -> desktop -> mmc name -> success

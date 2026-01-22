@@ -2,4 +2,8 @@
 
 hiren boot iso download
 
-14.05 minutes on youtube
+download rufus and make pendrive bootable with hiren boot iso
+
+Start menu -> all programs -> security -> passwords -> windows login unlocker -> select the user whose password you want to remove -> click Reset\Unlock -> OK -> Success 
+
+to do it in virtual machine change the iso file to hiren boot -> edit -> options -> advanced -> uefi to bios change -> boot the vm normally -> press f2 key -> select the boot media -> it will boot into hirenboot -> then remove the required password

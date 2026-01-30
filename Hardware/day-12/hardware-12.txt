@@ -1,0 +1,12 @@
+*Data backup / Disk cloning
+
+Clone means full backup
+
+Ghost ke liye ham pendrive ka use karte hai. Ghost me data compress hoke save hota hai.
+
+1. Hiren boot
+2. Dlc boot
+
+Take a neat clean disk for cloning (!important)
+
+aeomi is one of the popular software for disk cloning

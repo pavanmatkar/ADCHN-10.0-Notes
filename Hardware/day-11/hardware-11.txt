@@ -1,3 +1,18 @@
 * Disk health and data recovery
 
-hdsentinal
+ek baar hdd ka health down hona suru ho gaya to use thik nahi kiya ja sakta
+
+health 99% bhi nahi chalegi kyoki wo fir continue down hona suru ho jayega 
+
+health kam ho gayi to
+1) speed kam ho jayegi slow ho jayega
+
+hdsentinal tool for checking health of the storage
+
+====================================================
+
+* Data Backup
+
+we are using hiren boot for data recovery e.g. recuva, victoria
+
+ 

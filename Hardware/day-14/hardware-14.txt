@@ -1,0 +1,11 @@
+* Printer
+
+laser printer, ink printer, cartridge printer
+
+every printer has its own driver (kind of software)
+
+printer parts 
+1) toner / cartridge -> toner me jo roller hota hai use cartridge bolte hai
+
+ink printer me kai saare problem aate hai
+isme hota hai head. agar head damage ho gaya to printer dead.

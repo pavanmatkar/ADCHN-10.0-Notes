@@ -1,0 +1,70 @@
+question 1: hub and switch difference
+
+Hub broadcast Switch unicast
+
+switch creates mac address table of every connected device
+switch sends ARP (address resolution protocol) to every connected device
+
+hub and switch dont have their own ip address but router has its own ip address
+
+switch is a plugin play device but router needs configurations
+
+================================================================
+
+question 2: dhcp / dora process
+
+dhcp provides dynamic ip address and related information like default gateway, subnet 
+mask, dns 
+
+dora -> discovery request is always broadcast 
+
+================================================================
+
+question 3: what is apipa ip
+
+================================================================
+
+question 4: diff betwn workgroup network and domain network
+
+workgroup is a peer to peer network
+
+domain is a server to client network
+
+in domain the clients are dependent on server for service, user administration, etc.
+
+================================================================
+
+question 5: subnetmask
+
+logical address is made up of network and host
+
+ek ip ke andar kitne network hai aur kitne host hai ye subnet mask batata hai
+
+================================================================
+
+question 6: active directory
+
+================================================================
+
+question 7: tcp/ip udp
+
+both work on transport layer
+
+tcp jab connection banta hai to 4 layer me banta hai aur jab break hota hai tab 3 layer me hota hai
+
+================================================================
+
+question 8: computer is slow
+
+check task manager and end the unnecessary services
+
+================================================================
+
+question 9: power on but no display
+
+press numlock and capslock and check if the led blinks
+
+check VGA DVI DP HDMI cables
+
+agar numlock and capslock press karne ke baad led nahi blink kar rahi to ram, cpu, smps check karo lastly bios check karo
+

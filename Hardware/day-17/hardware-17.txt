@@ -1,0 +1,55 @@
+Q.1 diff betn basic disk and dynamic disk
+
+basic disk me aap OS install kar sakte ho
+
+by default the disk is in basic mode
+we can convert it to dynamic disk dynamic disk can be used for raid technology
+
+without data loss in running condition disks can be added or removed in dynamic disk
+
+in basic disk we cannot change the disk in running condition
+
+================================================
+
+Q.2 GPT & MBR
+
+gpt is new technology
+mbr is old technology
+
+================================================
+
+Q.3 UEFI & Legacy
+
+gpt supports uefi
+mbr supports legacy(bios)
+
+disable secure boot to boot from legacy
+
+================================================
+
+Q.4 RAM size issue
+
+msconfig -> boot -> advanced options -> number of processors / maximum memory
+
+jab tak system restart nahi karoge tab tak changes active nahi honge
+
+=================================================
+
+Q.5 swap memory
+
+it is a virtual memory created in Linux os
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

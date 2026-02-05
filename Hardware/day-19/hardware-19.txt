@@ -1,0 +1,29 @@
+Q.1 cmd > tasklist
+
+======================================
+
+Q.2 how to uninstall software on windows
+
+======================================
+
+Q.3 Blue screen error 
+
+80% due to ram
+comes if some files are deleted
+file explorer kam nahi karta hai to bhi blue screen error aata hai
+
+safe mode me jaake diagnostics run karlo. ram diagnostics, disk diagnostics
+drivers update karo
+
+=======================================
+
+Q.4 Static ip in windows
+
+check on chatgpt
+separate for win10 and win11
+
+=======================================
+
+Q.5 network issue troubleshooting
+
+cmd > ipconfig

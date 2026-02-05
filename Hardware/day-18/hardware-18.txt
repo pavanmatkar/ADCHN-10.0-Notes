@@ -1,0 +1,48 @@
+* ccna interview questions and answers
+
+Q.1 OSI model
+
+1989 se Pehle do alag alag vendor ke pc ek dusre se communicate nahi karte the.
+
+jab data send karte hai use encapsulation bolte hai aur data receive hota hai use decapsulation bolte hai
+
+===============================================
+
+Q.2 Router and Layer 2 switch
+
+layer 3 switch / core layer switch / top layer switch
+layer 2 switch / distribution layer switch / manageable switch
+layer 1 switch / access layer switch / unmanageable switch
+
+core layer switch performs both routing and switching
+
+switch is a plug and play device no configuration needed
+
+router joins to or more different networks
+
+switch works on one network. switch is a advanced device. it works on mac address table. switch generates ARP (address resolution protocol) message.
+Arp packet broadcasts
+
+==============================================
+
+Q.3 What is console port
+
+console port ke madhyam se hi hum identify kar pate hai ki manageable hai ya nahi
+
+console port ka use hum cli mode access karne ke liye karte hai physically
+
+devmgmt.msc to check comp1 comp2 or comp3
+
+the first time connection is possible through console only
+then we can configure ssh and telnet
+auxiliary port se tab lete hai jab hame other network se access lena hota hai
+
+=================================================
+
+Q.4 what is dora process
+
+=================================================
+
+Q.5 Routed and routing protocol
+
+manually matlab routed and dynamic matlab routing

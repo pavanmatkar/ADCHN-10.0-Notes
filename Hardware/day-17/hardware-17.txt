@@ -39,6 +39,18 @@ Q.5 swap memory
 
 it is a virtual memory created in Linux os
 
+swap memory (swap ram) ki processing thodi slow hoti hai
+
+==================================================
+
+Q.6 windows and Linux
+
+windows server 2000 se lekr 2008 tak 32 bit artitecture tha windows 2008r2 se 64 bit artitecture aane laga
+
+Linux is a opensource OS. Runs on old hardware. use full hdd/ssd capacity. lightweight. good compatibility with network.
+
+
+
 
 
 

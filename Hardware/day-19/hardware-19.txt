@@ -27,3 +27,7 @@ separate for win10 and win11
 Q.5 network issue troubleshooting
 
 cmd > ipconfig
+devmgmt.msc > network adapters > dropdown menu > uninstall > rescan device this is known as reset network adapter
+
+
+

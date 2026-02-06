@@ -1,0 +1,9 @@
+Q. default gateway
+
+router ip is default gateway 
+private network to public network through default gateway
+
+Q. safe mode
+
+msconfig > boot > safe mode > restart
+

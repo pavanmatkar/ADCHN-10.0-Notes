@@ -1,0 +1,6 @@
+*list of windows commands 
+
+commands to see ram information
+
+memory type means ddr1 ddr2 ddr3 ddr4 ddr5
+

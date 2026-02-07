@@ -1,0 +1,38 @@
+Q.1 step 3 -> motherboard light check (light will blink on motherboard led)
+
+after checking all the things if the computer is not starting then change smps
+
+=====================================================
+
+Q.2 continuous beep sound -> change RAM
+
+two beep sound -> change cmos battery
+
+======================================================
+
+Q.3 system overheating
+
+fan > heatsink > cooling pest
+
+symptoms of overheating 
+shutdown > restart > slow
+
+Run diagnostics
+
+then check cpu cooling fan if there is any dust
+clean the fan apply cooling pest (thermal pest) on cpu
+
+=======================================================
+
+Q.8 ospf
+
+5.fast convergence
+
+unlimited router
+
+ISP use karte hai ospf
+
+=======================================================
+
+
+

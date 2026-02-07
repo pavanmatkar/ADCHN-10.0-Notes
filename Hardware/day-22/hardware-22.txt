@@ -1,0 +1,19 @@
+Q.1 windows 10 install
+
+we need WinRAR installed to extract the iso file
+
+after extracting windows 10 iso file we get different files one of them is
+
+install.wim file > properties > 4.82GB > this is main installer file
+
+delete install.wim from windows 10 iso file
+
+extract windows 11 iso file with WinRAR and put the install.wim file from windows
+11 to windows 10
+
+to dual core, 4gb ram, 500gb storage wale machine me bhi windows 11 install hoga
+====================================================================
+
+Q.2 BSOD (blue screen of death)
+
+advanced options > command prompt > 

@@ -1,0 +1,79 @@
+Q.1 types of nat
+
+static nat 
+one to one mapping
+for 200 private ip we need 200 public ip
+
+dynamic nat
+one to many
+isme hum ek range ko buy karte hai
+agar 5 users hai aur 3 dynamic ips hai to only 3 users at a time internet use kar 
+payenge jab ip free hoga tab next user internet access kar payega
+
+pat-nat
+one to all
+port address ke behalp pe divide kar deta hai
+
+=======================================
+
+Q.2 Ransomware?
+
+it is a computer virus which encrypts all the data on a system. and the decryption
+ key is at the hacker. He charges big amount from the organization to provide the 
+decryption key. it enters from (email attachment, fake download, cracked software, USB, etc.).
+
+========================================
+
+Q.3 Eigrp?
+
+enhanced interior gateway routing protocol
+
+it is a type of dynamic routing protocol
+
+advanced distance vector routing protocol
+
+all routers apne neighbours share karte hai ek dusre ke saath
+
+loop free routing to create karta hai
+
+=========================================
+
+Q.4 acl
+
+access control list
+
+standard acl me host block or network block kar sakte hai
+
+extended acl me kuch services block (allow deny) kar sakte hai
+
+what is host -> any device which stores data, process data and forward data is known as host e.g. computer,router,switch
+
+============================================
+
+Q.5 diff betn ipv4 and ipv6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

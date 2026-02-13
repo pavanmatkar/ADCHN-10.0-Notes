@@ -1,0 +1,53 @@
+* Microsoft 365 administrator interview questions and answers
+
+ms 365 is a saas cloud service
+
+=====================================
+
+Q. diff betn ms365 and office 365
+
+ms365 include office 365 plus windows os, enterprises mobility and security
+
+ms365 is advanced version of office 365
+
+advanced security options are available in ms 365
+
+======================================
+
+Q. what are the admin roles in ms 365
+
+global admin -> all rights
+
+billing admin -> billing related rights
+
+exchange admin manages the mail service e.g. encryption, mail trace karna
+ho, restrictions on mail box.
+
+share point admin center and team admin center are collaboration and communication tools.
+
+security admin and compliance admin is for conditional access policy creation, retention policy, etc.
+
+======================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

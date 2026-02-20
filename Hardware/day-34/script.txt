@@ -1,0 +1,9 @@
+CREATE DATABASE 'hesk'
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_unicode_ci;
+
+CREATE USER 'hesk_owner'@'localhost' IDENTIFIED BY 'hesk123$%';
+
+GRANT ALL PRIVILEGES ON `hesk`.* TO 'hesk_owner'@'localhost';
+
+FLUSH PRIVILEGES;

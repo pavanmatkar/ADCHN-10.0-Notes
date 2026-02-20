@@ -16,4 +16,4 @@ then edit it as
 
 * for USB port blocking
 
-go to edit group policy -> administrator -> system -> removable storage access -> all removable storage allow -> enable -> apply ok
+go to edit group policy ->computer configuration -> administrator -> system -> removable storage access -> all removable storage allow -> enable -> apply ok

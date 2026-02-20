@@ -66,6 +66,9 @@ Server uses GPT disks
 
 * Basic disks and Dynamic disks
 
+basic disk me keval 3 primary partition banenge
+dynamic me primary partition nahi bante extended bante hai to kitne bhi ban sakte hai
+
 interview question basic disk and dynamic disks
 
 diskmgmt.msc (to check basic or dynamic disk)

@@ -1,0 +1,43 @@
+* Network Topology
+
+1. Bus Topology 
+
+coaxial cable is used for bus topology
+
+the connector used for bus topology is BNC connector
+
+it broadcasts the data therefore no data security
+
+single point of failure makes whole network down
+
+difficult to troubleshoot the point of failure we have to check whole network
+
+bus topology is difficult to manage
+
+not used now a days
+
+============================================================
+
+2. Ring Topology
+
+coaxial cable with BNC connector is used for ring topology
+
+ring topology clockwise
+
+dual ring topology internal clockwise external anticlockwise
+
+dual ring topology was expensive as we have to use two wires for a single network
+
+data broadcast in ring topology
+
+and same disadvantages as the bus topology
+
+=============================================================
+
+3. Star Topology
+
+
+
+
+
+

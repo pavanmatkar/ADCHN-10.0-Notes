@@ -36,8 +36,39 @@ and same disadvantages as the bus topology
 
 3. Star Topology
 
+it uses twisted pair cable also known as cat cable or ethernet cable
+or lan cable or rj45 cable
 
+it uses rj45 connector
 
+switch is used in star topology which is a intelligent device
+
+switch works on unicast communication (hub works on broadcast communication)
+
+if one connection in the network fails the only one pc gets disconnected
+all the other network is on
+
+===============================================================
+
+4. Tree Topology
+
+when we connect multiple star topologies we get tree topology.
+
+===============================================================
+
+5. Mesh Topology
+
+used in large working area such as Banking, Airport, Data Center
+
+even if one or two networking cables fail at the time the whole network is working
+without being affected.
+
+===============================================================
+
+6. Hybrid Topology
+
+when we connect multiple topologies together is called as hybrid topology 
+e.g. bus topology, ring topology, star topology connected together is known as hybrid topology
 
 
 

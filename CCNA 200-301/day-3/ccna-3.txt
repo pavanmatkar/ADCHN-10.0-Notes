@@ -1,0 +1,50 @@
+* Networking Devices
+
+1. Router
+
+unmanageable router ka browser se dashboard access kr sakte hai. usme password change
+kar sakte hai and user ko block kar sakte hai
+
+manageable router me sab controlling aapke haath me hoti hai
+
+manageable router parts cpu, ram, rom, storage, ports, smps, cooling fan
+
+ram stores all running configuration files
+
+router operating system is ios
+
+nvram means hard disk or secondary memory it stores startup configurations
+
+in old routers we used to have flash memory. flash memory stores ios which is in .bin
+format. in new routers there is a separate storage device
+
+rom performs power on self test (post) 
+
+there are some empty slots in the router where we can add Lan or Wan interface 
+cards according to our need
+
+in manageable router we can customize the hardware also e.g. adding ports as per requirement
+
+interview question explain router boot process?
+
+first method to access router is console port
+
+second method to access router is aux port
+aux port can be used for remote access of the router
+aux port is connected to modem > internet > modem > computer where we want to access the router
+putty software is used for remote access
+
+third method to access the router is VTY it uses telnet or ssh
+telnet for private network and ssh for public network as it requires security
+
+fourth method is tty
+agar bahut sare routers hai hamare premises me to hum tty method ka use karenge.
+sare routers ko ek device se connect karenge fir use computer se connect karenge
+fir hame jo router chahiye usme login karenge
+
+
+
+
+
+
+ 

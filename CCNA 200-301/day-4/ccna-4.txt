@@ -1,0 +1,77 @@
+* networking media
+
+wired media    > coaxial cable, twisted pair cable, fibre cable
+wireless media > radio waves, micro waves, infra red
+
+=========================================================
+
+1. coaxial cable > now a days used only in D2H setup
+
+2. twisted pair cable types > cat 7 cable is shielded so its costly
+used for router to switch or router to router connection
+normally not used widely
+
+twisted pair applications e.g.to connect pc, switch, router, firewall, modem, gateway
+
+3. fibre cable > not used inside company. it is used for CAN (campus area network), 
+MAN (metropolitan area network) or WAN (wide area network). very fast speed.
+not used for small network
+
+used to join countries and states
+
+=============================================================
+
+1. Radio Waves > 2.4 GHz 5 GHz
+
+2. Micro Waves > e.g. satellite signal, walky talky
+jaha pe radio wave signal nahi pahuch paati vaha micro wave signal pahuch jati hai
+kyoki ise satellite se radar se dena hota hai
+
+3. infra red > e.g. TV Remote
+cannot be seen by eyes
+camera can see it
+
+=====================================================================
+
+Straight through cable
+
+while crimping the cable keep the locking face of rj 45 connector down. it can be
+seen clearly in the screenshot
+
+orange white
+orange
+green white
+blue 
+blue white
+green
+brown white
+brown
+
+=================================================================
+
+cross over cable
+
+green white
+green
+orange white
+blue
+blue white
+orange
+brown white
+brown
+
+============================================================
+
+io box connection
+
+check screenshot for more details
+
+============================================================
+
+lan tester
+
+8 leds should glow
+
+
+
+ 

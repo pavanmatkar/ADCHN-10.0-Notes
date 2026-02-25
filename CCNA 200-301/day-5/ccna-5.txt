@@ -1,0 +1,25 @@
+* computer addressing (ip address and mac address)
+
+1. port address
+
+total port address 65535
+well known port: 0 to 1023
+registered port (IANA): 1024 to 49151
+dynamic port: 49152 to 65535
+
+=============================================================
+
+2. physical address / mac address
+
+total 48 bits 
+
+mac address is divided into two parts
+24 bits > Organisational unique identifier (OUI)
+24 bits > Vendor
+
+==============================================================
+
+3. logical address
+
+ipv4 address > 32 bit long value
+

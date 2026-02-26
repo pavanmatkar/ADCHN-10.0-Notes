@@ -23,3 +23,4 @@ mac address is divided into two parts
 
 ipv4 address > 32 bit long value
 
+ipv6 address > 128 bit long value

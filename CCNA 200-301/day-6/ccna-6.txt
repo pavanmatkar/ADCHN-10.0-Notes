@@ -1,0 +1,35 @@
+* OSI Model
+
+what is host? 
+the device which stores, process, and forward data is called as host
+e.g. pc, switch, router
+
+shortcut to remember all layers 
+
+please > physical layer 
+do > data-link layer
+not > network layer
+take > transport layer
+sales > session layer
+person > presentation layer
+advice > application layer
+
+7. application layer provides UI
+
+6. presentation layer standard data format
+
+5. session layer creates maintains and ends session
+
+the above three are upper layers
+
+the below four are lower layers
+
+4. transport layer as the name suggests it transports the data either through TCP or UDP
+
+3. network layer > routing protocol and routed protocol
+routing protocol batayega kaunse raste se jana hai
+routed protocol batayega kaha pr jana hai
+
+2. data link layer works on physical address i.e. MAC Address
+
+1. physical layer > converts the data from bytes to bits

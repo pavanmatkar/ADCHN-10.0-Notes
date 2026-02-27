@@ -1,0 +1,4 @@
+* IP Addressing
+
+what is ip ? 
+2. QOS -> Quality of Service

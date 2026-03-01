@@ -1,0 +1,10 @@
+* Subnetting
+
+router rule > har ek interface pr pe different network hona chahiye
+
+===========================================================
+
+example number 2 at 31:05 in video
+
+first find out how many maximum hosts are required in the network
+

@@ -1,0 +1,10 @@
+* VLSM and FLSM
+
+(fixed length subnet mask and variable length subnet mask)
+
+subnetting is done in two basis
+1. number of network > 2n
+2. number of hosts > 2h-2
+
+
+class 9 not understood need to repeat

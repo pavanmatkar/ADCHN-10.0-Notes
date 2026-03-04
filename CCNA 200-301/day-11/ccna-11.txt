@@ -1,0 +1,10 @@
+* Data Sharing
+
+at the time of first time communication ARP packet is generated
+ARP package always broadcasts
+
+in this lesson we have learned how to share
+1. folder
+2. drive
+3. printer
+4. pendrive

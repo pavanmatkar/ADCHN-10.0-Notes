@@ -1,0 +1,34 @@
+* FTP Private and Public
+
+FTP is secure, fast and transfers huge amount of data
+
+normal sharing can transfer data in only private network but ftp can transfer data
+in private and public
+
+turn on the iis service from control panel > programs and feature > turn on windows features > iis > ftp > ftp service
+
+after this restart the system so that the changes should be applied on the system
+
+private FTP is successful on my device 
+
+==============================================================
+
+Public FTP
+
+port address
+public can communicate with public only
+private can communicate with private only 
+so we use port forwarding to communicate both public and private
+
+we use python script for security purpose
+for port forwarding we use ngrok
+
+step 1 > download python 2.7.16
+
+===================================================================
+
+needs to be repeated
+
+
+
+

@@ -1,0 +1,10 @@
+* DHCP
+
+discover packet always broadcast
+
+layer 2 mac address
+
+server always unicast communication
+
+if dhcp fails APIPA will provide ip
+

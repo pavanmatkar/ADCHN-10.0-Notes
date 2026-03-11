@@ -1,0 +1,6 @@
+* DNS
+
+ip to name 
+name to ip
+
+packet tracer setup is covered in this lesson

@@ -1,0 +1,6 @@
+* VLAN
+
+the devices are connected on same physical device (switch) but are logically separated from one another is called vlan
+
+by default all devices connected to the switch are in default vlan 1
+

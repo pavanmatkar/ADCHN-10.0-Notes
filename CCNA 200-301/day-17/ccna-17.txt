@@ -1,0 +1,24 @@
+* Trunk VLAN
+
+you have to make trunk port on only one switch
+
+first time communication ke vakt two packets send karega 
+1. icmp packet
+2. arp packet
+
+after deleting the vlan.dat file we need to restart (command for restart is "reload") the switch so that changes take effect
+
+> restart
+> enable
+> show vlan
+
+it will show no vlan
+
+================================================================
+
+when we delete os of the switch and reload the switch it will show 
+
+switch: 
+
+=================================================================
+

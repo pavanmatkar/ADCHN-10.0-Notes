@@ -1,0 +1,8 @@
+* VOIP Configuration
+
+we have to configure dhcp first
+
+after configuring dhcp and turning ON the voip phone the lights on switch will be green
+
+
+

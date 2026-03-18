@@ -1,0 +1,41 @@
+* Switching protocol
+
+In networking (especially enterprise networks), switches are organized in a 3-layer
+ hierarchical model. This helps in better performance, scalability, and 
+troubleshooting.
+
+1. core layer switch or layer 3 switch needs to be configured to be used as a router
+e.g. 7000, 8000, 10000+ series switch
+
+core layer switch is also known as cut through switch or multilayer switch or top layer switch
+
+2. layer 2 switch aka distribution layer switch e.g. 3000 - 5000 series switch
+
+security and configurations are applied on distribution layer switch
+
+3. access layer switch e.g. 1900 - 2900 series switch
+
+==========================================================
+
+Switchport Security 
+
+it is only applicable for manageable switch because unmanageable switch do not have
+cli access.
+
+switchport security practical in this video
+
+switchport security is applied on the basis of mac address because it does not change
+
+# switchport mode access ye command chalane ke baad show mac-address-table command 
+show nahi karega to sabko ek baar ping karna padta hai
+
+configuration karne ke baad # do wr command chalana nahi to changes sirf ram me hi rahenge aur machine shutdown kiya to changes hat jayenge
+
+
+
+ 
+
+
+
+
+

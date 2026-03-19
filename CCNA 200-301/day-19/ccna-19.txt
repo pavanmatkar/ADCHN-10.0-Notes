@@ -31,6 +31,8 @@ show nahi karega to sabko ek baar ping karna padta hai
 
 configuration karne ke baad # do wr command chalana nahi to changes sirf ram me hi rahenge aur machine shutdown kiya to changes hat jayenge
 
+==============================================================
+
 
 
  

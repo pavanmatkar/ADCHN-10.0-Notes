@@ -1,0 +1,4 @@
+* Routing Protocols
+
+neighbour information is exchanged in dynamic routing
+

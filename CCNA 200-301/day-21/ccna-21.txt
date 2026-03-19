@@ -1,0 +1,9 @@
+* RIP
+
+for rip ad value is 120
+
+rip calculates hope count not matric
+
+>enable enter karnese ham privilege mode me aate hai
+#configure terminal enter karnese ham global configuration mode me aate hai
+

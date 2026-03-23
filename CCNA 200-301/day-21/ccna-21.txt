@@ -7,3 +7,5 @@ rip calculates hope count not matric
 >enable enter karnese ham privilege mode me aate hai
 #configure terminal enter karnese ham global configuration mode me aate hai
 
+maximum router limit is 15
+

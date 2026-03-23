@@ -1,0 +1,8 @@
+* OSPF
+
+we can connect unlimited routers in this protocol
+
+ABR > Area Border Router
+
+ospf configure kerte wakt wild card mask dena hota hai network id ke saath
+

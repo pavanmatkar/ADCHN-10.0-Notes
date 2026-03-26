@@ -1,0 +1,13 @@
+OSPF part 2
+
+Area 0 is backbone area
+
+ABR router configure karte wakt hame 2 alag alag area dene hoge 
+first network add karte wakt Area 0 lena hoga
+second network add karte wakt Area 1 lena hoga
+
+aisa nahi kiya to connectivity nahi ho payegi
+
+in this practical area 2 to area 1 connectivity is not working
+do it again
+

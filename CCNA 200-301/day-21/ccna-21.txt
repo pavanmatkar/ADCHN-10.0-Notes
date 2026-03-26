@@ -1,6 +1,6 @@
 * RIP
 
-for rip ad value is 120
+for rip ad (administrative distance) value is 120
 
 rip calculates hope count not matric
 

@@ -1,4 +1,4 @@
-* OSPF
+* OSPF part one
 
 we can connect unlimited routers in this protocol
 

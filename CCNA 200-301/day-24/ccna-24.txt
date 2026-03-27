@@ -1,0 +1,16 @@
+* EIGRP
+
+default 100 router configure kr sakte hai
+and we can connect 255 routers in this protocol
+
+Eigrp is one of the popular and mostly used protocol
+
+each router will create its network table initially
+
+AS number -> Autonomous System
+
+AS number on all the router in eigrp network should match i.e. same 
+
+====================================================
+
+jab tak authentication match nahi hota tab tak neighbour nahi ban sakte hai

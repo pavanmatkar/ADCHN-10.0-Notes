@@ -1,0 +1,35 @@
+* ACL Advanced concepts
+
+acl is configured on router
+
+interview question how acl work ?
+
+we cannot use dhcp in acl configuration because in dhcp ips are dynamically changed but we are restricting devices based on ip in acl so
+
+if dhcp is used then in that case we have to reserve the ip for particular device
+
+eigrp routing is configured for communication
+
+in standard acl we can block host or network
+
+==================================================
+
+how to use EVE NG server is also described in this practical from 40:00 minutes
+
+the same network is configured in eve ng server as cisco packet tracer
+
+===================================================
+
+we have to specify internal and external interface
+
+====================================================
+
+# no access-list 10 
+to delete the acl 
+
+# access-list 110
+greater than 100 means its an extended ACL
+
+in extended acl we can permit or deny any service
+
+====================================================

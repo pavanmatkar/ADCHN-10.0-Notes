@@ -1,0 +1,22 @@
+* NAT
+
+Internet is aka public network
+
+ek private ip se ek public ip is called static nat
+one to one mapping
+
+=============================
+
+static nat practical is successful
+
+=============================
+
+dynamic nat practical is needed to be repeated
+
+=============================
+
+notes upto 36:00 are taken 
+and next are remaining
+
+
+

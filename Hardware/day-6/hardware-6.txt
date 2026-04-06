@@ -3,5 +3,5 @@
 boot key for hp is f9
 for dell f12
 
-select I dont have a internet while installing windows 10 or else it will start updating the system which will be lengthy process
+select I don't have a internet while installing windows 10 or else it will start updating the system which will be lengthy process
 

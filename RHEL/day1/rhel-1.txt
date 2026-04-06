@@ -1,0 +1,4 @@
+RHEL introduction 
+ 
+installation of rhel 10
+

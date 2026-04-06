@@ -8,3 +8,6 @@ subnetting is done in two basis
 
 
 class 9 not understood need to repeat
+
+9 and 12 needed to be repeated
+23 practical not successful

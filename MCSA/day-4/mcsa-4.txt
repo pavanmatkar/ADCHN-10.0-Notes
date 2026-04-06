@@ -1,0 +1,10 @@
+server ki monitoring karne ke liye jo computer use hota hai use ham witness server 
+bolte hai
+
+A quorum disk is a shared storage disk used in a cluster system to keep critical information about the cluster.
+
+# gpmc.msc -> to open group policy management
+# gpupdate /force -> cmd to update group policy changes effectively
+
+
+

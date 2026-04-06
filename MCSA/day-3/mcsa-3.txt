@@ -1,0 +1,7 @@
+dxdiag -> to check computer specifications
+
+chkdsk -> check bad sector
+
+hot swappable means we can change the disks while the server is on
+
+msconfig > boot menu > click on safe mode > select "active directory repair" > 

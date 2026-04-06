@@ -1,20 +1,20 @@
 * Microsoft 365 administrator interview questions and answers
 
-ms 365 is a saas cloud service
+MS 365 is a SAAS cloud service
 
 =====================================
 
-Q. diff betn ms365 and office 365
+Q. diff between MS 365 and office 365
 
-ms365 include office 365 plus windows os, enterprises mobility and security
+MS 365 include office 365 plus windows OS, enterprises mobility and security
 
-ms365 is advanced version of office 365
+MS 365 is advanced version of office 365
 
-advanced security options are available in ms 365
+advanced security options are available in MS 365
 
 ======================================
 
-Q. what are the admin roles in ms 365
+Q. what are the admin roles in MS 365
 
 global admin -> all rights
 

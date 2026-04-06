@@ -1,0 +1,23 @@
+prerequisite to install active directory is you must have static ip assigned
+and the partition where the database of active directory is installed is 
+NTFS partition
+
+NTDS -> new technology directory service
+SAM -> Security Account Manager
+
+sysdm.cpl -> to change pc name or to check workgroup or domain
+
+x86 means 32 bit
+x64 means 64 bit
+
+mstsc -> remote desktop service
+
+how to add multiple users using cmd prompt
+# for /l %i IN (1,1,20) do net user user%i Redhat@123! /add 
+
+"./admin" for login local user in domain
+
+nic teaming
+
+
+

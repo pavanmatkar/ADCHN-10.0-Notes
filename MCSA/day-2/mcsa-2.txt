@@ -1,0 +1,74 @@
+* DHCP
+
+jitne network connectivity ke madhyam hoge hamare computer me utne MAC address hoge 
+
+dhcp server - 67
+dhcp client - 68
+
+dhcp database location 
+c:\windows\system32\dhcp
+
+DORA Process 
+A - Acknoledgement can be of two types positive or negative 
+i.e. pack or nack
+pack -> 10.0.0.2
+nack -> 169.254.0.0 (apipa ip)
+
+apipa ip is invalid ip it cannot communicate with server or anyone
+
+superscope means group of scopes
+
+dhcp failover -> backup of the dhcp server i.e. second dhcp server 
+if one fails another works
+
+sysdm.cpl -> to change computer name
+and workgroup to domain or vice verca
+
+================================================================================
+
+* WDS (Window deployment services)
+
+aka remote installation services (RIS)
+
+requirements for wds 
+1. active directory
+2. DNS
+3. DHCP
+4. WDS
+
+================================================================================
+
+* Domain Controller
+
+A computer running with active directory services is called Domain Controller
+or else it is called as local server if not with active directory
+
+FSMO role -> Flexible Single Master Operation role
+it contains 5 roles
+1. Schema master
+2. Domain naming master
+3. pdc
+4. RID pool
+5. Infrastructure Master
+
+when you create user a sid (Security Identity) is allocated and it is permanent you cannot allocate it to other user even if the original user is deleted
+
+ek domain controller ke saath 500 sid by default hota hai
+
+recycle bin of AD is known as "tombstone memory" it has 90 day validity
+
+Global Catalog (GC) is act as a search engine for our infrastructure or domain controller
+
+cmd to check fsmo role
+# netdom query fsmo
+
+schema chupa hua hota hai use import karne ke liye command
+# regsvr32 schmmgmt.dll
+
+
+
+
+
+
+
+

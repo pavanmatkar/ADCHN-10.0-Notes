@@ -4,7 +4,7 @@ two types 1. IDE HDD 2. SATA HDD
 
 IDE HDD also known as PATA HDD
 
-IDE is obsolute now so we will study SATA only
+IDE is obsolete now so we will study SATA only
 
 SATA HDD has following parts
 1. Plater / disk -> stores data
@@ -15,7 +15,7 @@ SATA HDD has following parts
 
 data is stored in the form of electromagnetic signal
 
-higher the rpm of motor higher is the speed of the hdd e.g. 5400rpm, 7200rpm, 10000rpm, etc.
+higher the rpm of motor higher is the speed of the HDD e.g. 5400rpm, 7200rpm, 10000rpm, etc.
 
 =======================================================================
 
@@ -32,22 +32,22 @@ if you want faster speed go for SSD
 HDD is cheap price e.g. 500 GB for 800/- RS
 SSD is high price e.g. 500 GB for 2000/- RS
 
-for fast booting use ssd for data storage use hdd.
-data recovery from ssd is harder as compared to hdd.
+for fast booting use SSD for data storage use HDD.
+data recovery from SSD is harder as compared to HDD.
 
 ===========================================================================
 
-* NVME also known as m2 sata
+* NVME also known as m2 SATA
 
-it takes much lower space as compared to hdd and sata.
+it takes much lower space as compared to HDD and SATA.
 
-extra power connection is not required for nvme but required in hdd and sata
+extra power connection is not required for NVME but required in HDD and SATA
 
 ===========================================================================
 
 * MBR (master boot recorder) and GPT (graphic partition table)
 
-MBR supports upto 3 primary partition and one extended partition (logical volume) total of 4 partition and maximum disk size of 2TB
+MBR supports up to 3 primary partition and one extended partition (logical volume) total of 4 partition and maximum disk size of 2TB
 
 MBR introduced by IBM in 1983
 
@@ -57,7 +57,7 @@ OS can be installed only in primary partition
 
 MBR does not support secure boot menu. GPT supports secure boot menu.
 
-GPT supports upto 128 primary partition
+GPT supports up to 128 primary partition
 GPT supports UEFI boot menu (unified extendable firmware interface) 
 
 Server uses GPT disks
@@ -66,7 +66,7 @@ Server uses GPT disks
 
 * Basic disks and Dynamic disks
 
-basic disk me keval 3 primary partition banenge
+basic disk me only 3 primary partition banenge
 dynamic me primary partition nahi bante extended bante hai to kitne bhi ban sakte hai
 
 interview question basic disk and dynamic disks

@@ -1,16 +1,16 @@
-Q.1 types of nat
+Q.1 types of Nat
 
-static nat 
+static Nat 
 one to one mapping
-for 200 private ip we need 200 public ip
+for 200 private Ip we need 200 public Ip
 
-dynamic nat
+dynamic Nat
 one to many
 isme hum ek range ko buy karte hai
 agar 5 users hai aur 3 dynamic ips hai to only 3 users at a time internet use kar 
-payenge jab ip free hoga tab next user internet access kar payega
+payenge jab Ip free hoga tab next user internet access kar payega
 
-pat-nat
+pat-Nat
 one to all
 port address ke behalp pe divide kar deta hai
 
@@ -24,7 +24,7 @@ decryption key. it enters from (email attachment, fake download, cracked softwar
 
 ========================================
 
-Q.3 Eigrp?
+Q.3 EIGRP?
 
 enhanced interior gateway routing protocol
 
@@ -38,19 +38,19 @@ loop free routing to create karta hai
 
 =========================================
 
-Q.4 acl
+Q.4 ACL
 
 access control list
 
-standard acl me host block or network block kar sakte hai
+standard ACL me host block or network block kar sakte hai
 
-extended acl me kuch services block (allow deny) kar sakte hai
+extended ACL me kuch services block (allow deny) kar sakte hai
 
-what is host -> any device which stores data, process data and forward data is known as host e.g. computer,router,switch
+what is host -> any device which stores data, process data and forward data is known as host e.g. computer, router, switch
 
 ============================================
 
-Q.5 diff betn ipv4 and ipv6
+Q.5 diff between ipv4 and ipv6
 
 
 

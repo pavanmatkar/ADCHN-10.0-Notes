@@ -9,7 +9,7 @@ to delete data from EPROM we have to use UV rays
 bios present in rom bios performs post (power on self test)
 
 bios introduced in 1980 it does not supports secure boot
-bios booting process is slow as compared to uefi
+bios booting process is slow as compared to UEFI
 
 
 

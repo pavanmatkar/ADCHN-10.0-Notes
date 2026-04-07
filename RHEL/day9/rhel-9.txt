@@ -1,0 +1,7 @@
+usermod -l new_username old_username
+
+wrong in screenshot
+
+when we change the home directory of user ankit it enters into 
+"bash-5.1$" mode
+

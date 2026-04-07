@@ -1,0 +1,5 @@
+ACL Permissions
+
+specific permissions to specific user/group on specific file/directory
+
+special permissions are not covered in this tutorial

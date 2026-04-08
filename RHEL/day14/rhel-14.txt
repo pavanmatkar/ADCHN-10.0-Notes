@@ -1,0 +1,7 @@
+10. create connection set Ip address automatic
+# nmcli con add con-name <gyan> ifname enpos3 type ethernet connection.autoconnect yes ipv4.method auto
+
+11. After create connection / Profile stored in following location
+# cd /etc/NetworkManager/system-connection
+# ls
+

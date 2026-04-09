@@ -1,0 +1,6 @@
+* LVM 
+
+# blkid -> cmd to check whether the file system is applied successfully or not 
+
+# wipefs -a /dev/sda1 -> to remove filesystem
+

@@ -1,0 +1,20 @@
+* SN User Interface
+
+Instance Logo on top
+Instance name on right side of logo
+
+this two comes under branding
+
+the top rectangular box containing logo and instance name is known as header in SN
+
+filter navigator is aka left navigator or application navigator
+this is the first search of service now
+
+there are 4 or 5 searches in service now
+
+second search is in header right side aka global search
+
+the part excluding header and left navigator is called content frame
+
+ctrl + left click -> open in new tab (content frame)
+

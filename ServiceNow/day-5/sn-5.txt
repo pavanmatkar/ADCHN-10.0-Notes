@@ -1,0 +1,18 @@
+* List Form Filter
+
+In service now everything is in table format (same as in excel sheet)
+
+List View -> List of items available on your table 
+Form view -> particular item from the table
+
+>= -> bread-crumb
+used to remove the previous condition from the filter (only useful in list view)
+
+Breadcrumb is a navigation aid that shows the user’s path and allows easy backtracking
+
+what you see in url is table name
+and what you see in UI is label
+
+e.g. last screenshot
+sys_script is table name
+Business Rules is the label 

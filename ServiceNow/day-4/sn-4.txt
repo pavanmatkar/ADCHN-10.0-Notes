@@ -1,0 +1,13 @@
+interview question..
+why we have two basic configuration is service now ?
+
+the first "basic configuration" is used in UI 15 June 2013 se Pehle
+the second "basic configuration UI 16" is used in UI 16 which is introduced in 2k16
+
+interview question..
+the changes which we will make in basic configuration UI 16 (system configuration UI 16) are applied on all the users 
+
+the changes made from settings are applicable to the current user only
+
+
+

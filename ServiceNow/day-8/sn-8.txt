@@ -1,0 +1,14 @@
+we learned how to create group and add users to that group and how to assign roles to that group
+
+==============================================
+
+we learned how to delegate the tasks of one user to another user
+
+==============================================
+
+we learned how to deactivate the user if he left the organization so that he cannot
+login to the service now account
+
+==============================================
+
+

@@ -1,0 +1,9 @@
+* List Filter Form Configuration 
+
+slushbucket is where we configure the table display options
+
+in List controls we can see the added view e.g. Manager Test
+
+we can save the filter and it will appear in list controls
+visible to me, everyone, group
+

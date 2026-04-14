@@ -1,0 +1,23 @@
+while creating new users we get "string boxes" or "single line texts"
+
+🔍 magnifying glass is called as "reference"
+
+☐ checkbox
+
+arrow downward -> choice / select box
+
+Y6me3,:udw
+password
+
+
+oob -> out of the box roles
+we will not create new roles we will use the existing roles
+
+interview question 
+i am giving one role but why multiple roles are getting added?
+
+Ans. Incident manager is a parent role and the remaining 43 roles are child roles 
+i.e. they are inherited
+
+=============================================
+

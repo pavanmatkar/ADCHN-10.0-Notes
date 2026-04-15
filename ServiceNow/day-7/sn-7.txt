@@ -10,7 +10,7 @@ Y6me3,:udw
 password
 
 
-oob -> out of the box roles
+oob -> out of the box roles -> by default roles
 we will not create new roles we will use the existing roles
 
 interview question 

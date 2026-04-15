@@ -1,0 +1,10 @@
+Sys ID is unique id for each table -> 32 digit unique id created by service now and 
+it is unique for each and every table 
+
+ITSM module ka 90 % base jo hai na vo hai task table
+
+which is the parent table of service now? 
+-> task table
+
+11. Which is the Parent table for the incident, change, and problem?
+Ans: Task table
